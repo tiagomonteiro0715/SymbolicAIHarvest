@@ -1,5 +1,9 @@
 # SymbolicAIHarvest
 
+This was one of the projects from the class in NOVA FCT in the Eletrical and Computer Engineering Undergrad named: Modelation of Data in Engineering
+
+We got a score of 15.66 out of 20
+
 SymbolicAIHarvest is a Symbolic AI Prolog intelligent agricultural network management system that optimizes farm operations, sensor monitoring, route planning, and supply chain logistics through rule-based reasoning and expert system capabilities.
 
 ## Features
